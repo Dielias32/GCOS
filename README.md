@@ -1,2 +1,2 @@
 # GCOS
-Estudo para cadastro de gestao de dados
+Estudo para cadastro e gestao de dados
